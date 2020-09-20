@@ -1026,10 +1026,10 @@ JSONStream@^1.0.4:
     jsonparse "^1.2.0"
     through ">=2.2.7 <3"
 
-NeteaseCloudMusicApi@3.40.0:
-  version "3.40.0"
-  resolved "https://registry.yarnpkg.com/NeteaseCloudMusicApi/-/NeteaseCloudMusicApi-3.40.0.tgz#8b93494d5bdec9650eab651ab95d57d40768f002"
-  integrity sha512-Ujmcj/JMD38K2EAUl99HN7EzCI2ZUmjtFvdFKXVQjWY4cTrsCMfgQF0i5FFoFz1uZi5nvISdbs4qJYNjenwD9g==
+NeteaseCloudMusicApi@3.41.2:
+  version "3.41.2"
+  resolved "https://registry.yarnpkg.com/NeteaseCloudMusicApi/-/NeteaseCloudMusicApi-3.41.2.tgz#b75375a29918e57908b0256aac07b6a431298913"
+  integrity sha512-8JErNH46H3v3dhsdMPu7TQraYQOObK3cIpb0+kW9McnnqS+Tzyosp0qwyKExNIXqLb56/Iq3kEUJBiD4cf3prA==
   dependencies:
     axios "^0.20.0"
     express "^4.17.1"
